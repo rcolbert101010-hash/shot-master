@@ -1,2 +1,2 @@
 # shot-master
-A full-stack, cloud-native management platform for Heavy-Duty Repair &amp; Fabrication Shops — built with Next.js, NestJS, Prisma, Vuexy Admin Template, and PostgreSQL. Developed entirely online using GitHub Codespaces, free cloud services, and a phased MVP-to-production roadmap.
+A modern, full-stack, cloud-native application designed for Heavy-Duty Repair & Fabrication Shops that service heavy equipment, farm machinery, trailers, dump bodies, welding/fab projects, and custom manufacturing workflows.
